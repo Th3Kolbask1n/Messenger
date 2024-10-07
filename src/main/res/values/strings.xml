@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhatsTele</string>
+    <string name="messenger">Чат</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">Password</string>
+    <string name="button_login">Войти</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="age">Возраст</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="forgor_password">Забыли пароль?</string>
+    <string name="reset_password">Сбросить пароль</string>
+    <string name="logout">Выход</string>
+    <string name="reset_link_password">Инструкция по восстановлению отправлена на почту</string>
+    <string name="type_your_message">Введите сообщение</string>
+</resources>
